@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋, I'm Veerayuth
+
+**'A third-year student in computer engineering and artificial intelligence'**
 
 <!--
 **vveyuux/vveyuux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
