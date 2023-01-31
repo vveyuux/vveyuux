@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Veerayuth
+# Hi there 👋, I'm Veerayuth
 
 **'A third-year student in computer engineering and artificial intelligence'**
 
