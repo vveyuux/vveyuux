@@ -11,4 +11,8 @@ I've always been interested in learning about new technologies and I get very ex
 - 🌱 I’m currently learning how to build Web3 DApp project
 - 📫 How to reach me: vbussararungsee.work@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love coffee ☕ because it makes me feel great every morning. great in every morning.
+- ⚡ Fun fact: I love coffee ☕ because it makes me feel great every morning. great in every morning ☀️.
+
+---
+
+### Languages and Tools:
