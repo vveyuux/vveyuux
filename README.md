@@ -13,6 +13,7 @@ I've always been interested in learning about new technologies and I get very ex
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love coffee ☕ because it makes me feel great every morning. great in every morning ☀️.
 - 📃 My Portfolio: [Veerayuth's Portfolio](https://www.canva.com/design/DAFZJ1nhOhs/NUgRy-5wlssiI6ce24LIyA/view?utm_content=DAFZJ1nhOhs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 📜My Resume: [Veerayuth's Resume](https://www.canva.com/design/DAFZIyxU4-0/ZQl-vnTqx1GweL43v0Hfsw/view?utm_content=DAFZIyxU4-0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ---
 
