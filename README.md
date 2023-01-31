@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Veerayuth
 
-**`A third-year student in computer engineering and artificial intelligence`**
+**`A third-year student in computer engineering and artificial intelligence.`**
 
 I'm a third-year student in computer engineering and artificial intelligence at the UTCC. Once I started to code, I realized that I loved solving problems about logical things. So that's why I chose computer engineering as major.
 I've always been interested in learning about new technologies and I get very excited when I understand how they work and what benefits they provide. Like, when my instructor teaches me something new, I will do some work with that knowledge without asking them if they have any homework for me.
