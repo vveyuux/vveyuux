@@ -7,7 +7,7 @@ I've always been interested in learning about new technologies and I get very ex
 
 ---
 
-- 🔭 I’m currently working on WebApp project.
+- 🔭 I’m currently working on Undergraduate Project.
 - 🌱 I’m currently learning how to build Web3 DApp project
 - 📫 How to reach me: vbussararungsee.work@gmail.com
 - 😐 MBTI: **INTJ**
