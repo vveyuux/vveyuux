@@ -1,14 +1,14 @@
 # Hi there 👋, I'm Veerayuth
 
-**`A third-year student in computer engineering and artificial intelligence.`**
+**`A new graduate that is seeking for a software engineer position`**
 
-I'm a third-year student in computer engineering and artificial intelligence at the UTCC. Once I started to code, I realized that I loved solving problems about logical things. So that's why I chose computer engineering as major.
+Once I started to code, I realized that I loved solving problems about logical things. So that's why I chose computer engineering as major.
 I've always been interested in learning about new technologies and I get very excited when I understand how they work and what benefits they provide. Like, when my instructor teaches me something new, I will do some work with that knowledge without asking them if they have any homework for me.
 
 ---
 
-- 🔭 I’m currently working on Undergraduate Project.
-- 🌱 I’m currently learning how to build Web3 DApp project
+- 🔭 I’m currently working on my side project.
+- 🌱 I’m currently learning how to build Web3 DApp project and Working with cloud.
 - 📫 How to reach me: vbussararungsee.work@gmail.com
 - 😐 MBTI: **INTJ**
 - ⚡ Fun fact: I love coffee ☕ because it makes me feel great every morning. great in every morning ☀️.
@@ -32,9 +32,6 @@ I've always been interested in learning about new technologies and I get very ex
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
     </a>  
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-    </a>
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
     </a>
@@ -71,10 +68,4 @@ I've always been interested in learning about new technologies and I get very ex
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
     </a>   
-    <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-    </a> 
 </p>
