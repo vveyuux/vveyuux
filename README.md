@@ -2,18 +2,15 @@
 
 **`A new graduate that is seeking for a software engineer position`**
 
-Once I started to code, I realized that I loved solving problems about logical things. So that's why I chose computer engineering as major.
-I've always been interested in learning about new technologies and I get very excited when I understand how they work and what benefits they provide. Like, when my instructor teaches me something new, I will do some work with that knowledge without asking them if they have any homework for me.
+As a recent software engineering graduate, I have a strong passion for coding and problem-solving. I thrive on working with new technologies and enjoy finding innovative ways to apply them to my projects. My enthusiasm for learning and applying new concepts drives me to take on challenges and deliver effective software solutions.
 
 ---
 
 - 🔭 I’m currently working on my side project.
-- 🌱 I’m currently learning how to build Web3 DApp project and Working with cloud.
 - 📫 How to reach me: vbussararungsee.work@gmail.com
-- 😐 MBTI: **INTJ**
 - ⚡ Fun fact: I love coffee ☕ because it makes me feel great every morning. great in every morning ☀️.
-- 📃 My Portfolio: [Veerayuth's Portfolio](https://www.canva.com/design/DAFZJ1nhOhs/NUgRy-5wlssiI6ce24LIyA/view?utm_content=DAFZJ1nhOhs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-- 📜My Resume: [Veerayuth's Resume](https://www.canva.com/design/DAFZIyxU4-0/ZQl-vnTqx1GweL43v0Hfsw/view?utm_content=DAFZIyxU4-0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 📃 My Portfolio: [Veerayuth's Portfolio](https://vveyuux.github.io/homepage/)
+- 📜My Resume: [Veerayuth's CV](https://vveyuux.github.io/homepage/resume.pdf)
 
 ---
 
