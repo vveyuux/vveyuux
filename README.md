@@ -10,7 +10,7 @@ As a recent software engineering graduate, I have a strong passion for coding an
 - 📫 How to reach me: vbussararungsee.work@gmail.com
 - ⚡ Fun fact: I love coffee ☕ because it makes me feel great every morning. great in every morning ☀️.
 - 📃 My Portfolio: [Veerayuth's Portfolio](https://vveyuux.github.io/homepage/)
-- 📜My Resume: [Veerayuth's CV](https://vveyuux.github.io/homepage/resume.pdf)
+- 📜My Resume: <a href="https://vveyuux.github.io/homepage/resume.pdf" target="_blank" rel="noopener noreferrer">Veerayuth's CV</a>
 
 ---
 
